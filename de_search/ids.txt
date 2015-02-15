@@ -1,0 +1,153 @@
+1
+ User Guide New.Penny-This.com
+ user_guide_new_penny_this_com.html
+2
+ 1 Getting Started
+ 1_getting_started.html
+3
+ 1.1 Feature
+ 1_1_feature.html
+4
+ 1.2 Change Log
+ 1_2_change_log.html
+5
+ 1.3 Requirements
+ 1_3_requirements.html
+6
+ 1.4 Installation
+ 1_4_installation.html
+7
+ 2 Settings
+ 2_settings.html
+8
+ 2.1 General Settings
+ 2_1_general_settings.html
+9
+ 2.2 Module
+ 2_2_module.html
+10
+ 2.3 Menu
+ 2_3_menu.html
+11
+ 2.4 Pages
+ 2_4_pages.html
+12
+ 2.5 REST API
+ 2_5_rest_api.html
+13
+ 2.6 Email templates
+ 2_6_email_templates.html
+14
+ 2.7 Translations
+ 2_7_translations.html
+15
+ 3 Users
+ 3_users.html
+16
+ 3.1 Profile
+ 3_1_profile.html
+17
+ 3.1.1 Change password
+ 3_1_1_change_password.html
+18
+ 3.1.2 Upload avatar
+ 3_1_2_upload_avatar.html
+19
+ 3.2 Login in
+ 3_2_login_in.html
+20
+ 3.3 Login via Social Networking
+ 3_3_login_via_social_networking.html
+21
+ 3.3.1 Login via Facebook
+ 3_3_1_login_via_facebook.html
+22
+ 3.3.2 Login via Google
+ 3_3_2_login_via_google.html
+23
+ 3.3.3 Login via Twitter
+ 3_3_3_login_via_twitter.html
+24
+ 3.4 Invite user
+ 3_4_invite_user.html
+25
+ 3.5 Add user
+ 3_5_add_user.html
+26
+ 3.6 Create user
+ 3_6_create_user.html
+27
+ 3.6.1 Enter to user creation menu
+ 3_6_1_enter_to_user_creation_menu.html
+28
+ 3.6.2 Fill User attributes
+ 3_6_2_fill_user_attributes.html
+29
+ 3.7 Assign User to Company
+ 3_7_assign_user_to_company.html
+30
+ 4 Groups
+ 4_groups.html
+31
+ 4.1 Add group
+ 4_1_add_group.html
+32
+ 5 Partners
+ 5_partners.html
+33
+ 5.1 Add partners
+ 5_1_add_partners.html
+34
+ 6 Companies
+ 6_companies.html
+35
+ 6.1 Create company
+ 6_1_create_company.html
+36
+ 6.1.1 Enter to company creation menu
+ 6_1_1_enter_to_company_creation_menu.html
+37
+ 6.1.2 Fill company attributes
+ 6_1_2_fill_company_attributes.html
+38
+ 6.2 Invite to company
+ 6_2_invite_to_company.html
+39
+ 6.3 Invite user to company
+ 6_3_invite_user_to_company.html
+40
+ 7 Products
+ 7_products.html
+41
+ 7.1 All Products menu
+ 7_1_all_products_menu.html
+42
+ 7.2 Add new Product
+ 7_2_add_new_product.html
+43
+ 7.3 Product categories menu
+ 7_3_product_categories_menu.html
+44
+ 8 Orders
+ 8_orders.html
+45
+ 8.1 Details orders
+ 8_1_details_orders.html
+46
+ 9 Widgets
+ 9_widgets.html
+47
+ 9.1 Category widget
+ 9_1_category_widget.html
+48
+ 9.3 Widget details
+ 9_3_widget_details.html
+49
+ 9.2 Widget themes
+ 9_2_widget_themes.html
+50
+ 10 My company
+ 10_my_company.html
+51
+ 10.1 Add my company
+ 10_1_add_my_company.html
